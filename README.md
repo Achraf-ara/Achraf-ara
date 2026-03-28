@@ -47,7 +47,7 @@ I regularly update my personal website with deep dives into the platforms and ar
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
-<img src="https://achraf.mouljebouj.com/assets/icons/skills/plentymarkets.png" width="28" align="center"/> ![Plentymarkets](https://img.shields.io/badge/Plentymarkets-005B82?style=for-the-badge)
+![Plentymarkets](https://img.shields.io/badge/Plentymarkets-005B82?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
