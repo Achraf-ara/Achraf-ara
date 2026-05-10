@@ -2,11 +2,7 @@
 
 ### Full-Stack Developer | MEAN Stack & Flutter | AI Solutions Architect
 
-I am a Full-Stack Developer with over 6 years of experience building modern web and mobile applications. I specialize in bridging the gap between scalable backend architectures and seamless, user-friendly frontend experiences. 
-
 Welcome to my GitHub! To see detailed case studies of my professional projects, freelance work, and UI/UX integrations, please visit my **[Full-Stack Developer Portfolio](https://achraf.mouljebouj.com)**.
-
-For me, coding is more than just writing syntax; it's about solving real-world problems. Whether I'm building a cross-platform mobile app or an AI-powered e-commerce tool, my goal is simple: **to build software that people actually enjoy using.**
 
 ---
 
@@ -50,8 +46,6 @@ I regularly update my personal website with deep dives into the platforms and ar
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-4CAF50?style=for-the-badge)
 
 **Mobile Development:**  
@@ -92,7 +86,7 @@ I regularly update my personal website with deep dives into the platforms and ar
 
 I am always open to discussing tech, clean architecture, AI, or opportunities to build great products.
 
-- 💼 **LinkedIn:**[Achraf Mouljebouj](https://www.linkedin.com/in/Achraf-MLJ)
+- 💼 **LinkedIn: **[Achraf Mouljebouj](https://www.linkedin.com/in/Achraf-MLJ)
 - ✉️ **Email:** achraf.mouljebouj98@gmail.com
 - 🌍 **Website:** [achraf.mouljebouj.com](https://achraf.mouljebouj.com)
 
